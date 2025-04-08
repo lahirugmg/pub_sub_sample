@@ -1,0 +1,1 @@
+Create an HTTP service in Ballerina that receives requests and stores messages in a queue.
